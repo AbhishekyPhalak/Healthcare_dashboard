@@ -22,13 +22,12 @@ Check out the live version of the project here: [Live Demo](https://abhishekypha
 
 - **Frontend**:
   - **React**
-  - **Tailwind CSS**.
-  - **Bootstrap**:
-  - **Chart.js**:
+  - **Tailwind CSS**
+  - **Bootstrap**
+  - **Chart.js**
   
 - **Backend**:
-  - **Node.js**: JavaScript runtime used for building the server-side logic and API calls.
-
+  - **Node.js**
 ## Installation
 
 To get the project up and running locally, follow these steps:
