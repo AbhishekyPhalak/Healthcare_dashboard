@@ -6,6 +6,10 @@ A dynamic, single-page web application that fetches patient data from an API and
 
 Check out the live version of the project here: [Live Demo](https://abhishekyphalak.github.io/Healthcare_dashboard/)
 
+## ScreenShot
+
+![image](https://github.com/user-attachments/assets/89c5e42b-de2c-4d1e-81b2-36e5cc80ee5a)
+
 ## Features
 
 - **Dynamic Patient Data**: Displays detailed health data for patients, fetched from a remote API.
